@@ -13,7 +13,7 @@ This project enables browser automation using the Model Context Protocol (MCP). 
 
 ## Architecture
 
-![Architecture Diagram](architecture-diagram.png)  -![Untitled Diagram drawio](https://github.com/user-attachments/assets/06ebca27-8a0f-4d96-8ff7-812a8d95381e)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/06ebca27-8a0f-4d96-8ff7-812a8d95381e)
 
 _The diagram above illustrates the system architecture. The main components are:_
 - **Host (Cursor IDE):** Orchestrates user input, LLM responses, and tool invocation.
@@ -41,7 +41,7 @@ _The diagram above illustrates the system architecture. The main components are:
 1. **Clone the repository:**
     ```
     git clone https://github.com/sohailayan/mcp-uses.git
-    cd 
+    cd mcp-uses
     ```
 
 2. **Install dependencies:**
