@@ -1,6 +1,6 @@
 # [Ai assistant - using MCP server]
 
-[Brief one-line description of your project.]
+[A modular AI system leveraging MCP to connect language models with browser and API tools."
 
 ---
 
